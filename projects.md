@@ -3,7 +3,7 @@ layout: page
 title: Projects
 ---
 <h1>
-  📍 Projects / Competitions / Events
+  📍 Projects / Events
 </h1>
 <p>
   I decided to show all 3 categories on 1 page, as there's a lot of overlap! (The list also isn't very long - for now) 
