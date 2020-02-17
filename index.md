@@ -16,7 +16,7 @@ Some quick facts about me:
 * Aviation Enthusiast
 * Baseball megafan 
 
-I'm comfortable with <strong> Python, R, Java, </strong> and <strong> SQL </strong>. 
+I use <strong> Python, R, Java, </strong> and <strong> SQL </strong>. 
 
 My coursework covers <strong> probability theory, statistical inference, </strong> and various <strong> regression + classification methods, </strong> amongst other topics.
 
