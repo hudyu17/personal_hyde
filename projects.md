@@ -12,12 +12,12 @@ title: Projects
 
 ## <a href="{{ site.baseurl }}projects/unic">UNIC x Apotex Case Competition 2020</a> 
 <a href="{{ site.baseurl }}projects/unic">
-    <img src="/assets/unic.jpg">
+    <img src="{{ site.baseurl }}assets/unic.jpg">
 </a>
 <hr>
 
 ## <a href="{{ site.baseurl }}projects/cuhacking">cuHacking 2020 - Carleton University</a> 
 <a href="{{ site.baseurl }}projects/cuhacking">
-    <img src="/assets/cuhacking1.jpg">
+    <img src="{{ site.baseurl }}assets/cuhacking1.jpg">
 </a>
 <hr>
