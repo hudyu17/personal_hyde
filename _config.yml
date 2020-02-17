@@ -1,0 +1,30 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      pygment
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Hudson Yuen
+tagline:          'A Jekyll theme'
+description:      'Computer Science / Statistics @ The University of Toronto'
+url:              ''
+baseurl:          'personal_hyde'
+
+author:
+  name:           'Mark Otto'
+  url:            https://twitter.com/mdo
+
+plugins:
+  - jekyll-paginate
+  - jekyll-gist
+
+paginate:         4
+paginate_path:    "/blog/page:num/"
+
+# Custom vars
+version:          v1.0 Feb 2020
+
+github:
+  repo:           https://github.com/poole/hyde
