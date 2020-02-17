@@ -10,7 +10,7 @@ title:            Hudson Yuen
 tagline:          'A Jekyll theme'
 description:      'Computer Science / Statistics @ The University of Toronto'
 url:              ''
-baseurl:          'personal_hyde'
+baseurl:          'https://hudyu17.github.io/personal_hyde/'
 
 author:
   name:           'Mark Otto'
