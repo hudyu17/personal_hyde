@@ -123,8 +123,8 @@
       .sidebar-nav-item {
       display: inline;
       line-height: 2px;
-      margin-left: 7px;
-      margin-right: 7px;
+      margin-left: auto;
+      margin-right: auto;
     }
   }
   .sidebar-nav-item-icon {
