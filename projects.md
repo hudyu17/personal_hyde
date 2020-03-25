@@ -12,7 +12,7 @@ title: Projects
 
 ## <a href="{{ site.baseurl }}projects/unic">UNIC x Apotex Case Competition 2020</a> 
 <a href="{{ site.baseurl }}projects/unic">
-    <img src="{{ site.baseurl }}assets/unic.jpg">
+    <img src="{{ site.baseurl }}assets/unic/unic.jpg">
 </a>
 <hr>
 
