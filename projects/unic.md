@@ -11,7 +11,7 @@ UNIC x Apotex Case Competition 2020
  We won! <a href="http://www.apotex.ca/" target="_blank">Apotex</a> challenged 20 teams to help improve their understanding of the bid process using artificial intelligence and machine learning. This was my first ever case competition, and I'm grateful to have worked with a wonderful team: <a href="https://www.linkedin.com/in/chantelle-shing-87b2a417a/" target="_blank">Chantelle Shing</a>, <a href="https://ca.linkedin.com/in/david-jh-wong" target="_blank">David Wong</a>, and <a href="https://ca.linkedin.com/in/trudiecheung" target="_blank">Trudie Cheung</a>. 
 <br><br>
  Below is the slide that showed our data science workflow:
-<img src="{{ site.baseurl }}assets/unic/workflow.PNG">
+<img src="{{ site.baseurl }}assets/unic/workflow.png">
 We first aggregated a flood of data from multiple excel sheets to create a baseline model, the logic being that any prediction should improve upon this baseline. This created a dataset with hundreds of attributes, encouraging us to perform dimensionality reduction. We ran into some issues with PCA, so we ended up performing feature selection.
 <br><br>
 From this, we tried 2 machine learning techniques: random forests and building a multilayer perceptron neural network (MLP). The random forest actually performed slightly better than the MLP, and with the added benefit of interpretability, we decided to go with the former. Finally, we presented our findings in a business context that justified certain strategies and uses of the data. 
