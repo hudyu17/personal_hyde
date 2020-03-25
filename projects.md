@@ -18,6 +18,6 @@ title: Projects
 
 ## <a href="{{ site.baseurl }}projects/cuhacking">cuHacking 2020 - Carleton University</a> 
 <a href="{{ site.baseurl }}projects/cuhacking">
-    <img src="{{ site.baseurl }}assets/cuhacking1.JPG">
+    <img src="{{ site.baseurl }}assets/cuHacking/cuhacking1.JPG">
 </a>
 <hr>
