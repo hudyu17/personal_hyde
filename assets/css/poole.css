@@ -95,6 +95,7 @@
   @media (min-width: 48em) {
     h1 {
       margin-top: 0rem;
+      font-weight: lighter;
     }
   }
 
