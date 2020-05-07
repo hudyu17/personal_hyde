@@ -1,4 +1,4 @@
-I"i<h1>
+I"_<h1>
 👋 Hi, I'm Hudson. 
 </h1>
 
@@ -8,13 +8,13 @@
 
 <ul>
   <li>Incoming Data Analytics Intern at <a href="https://www.kijiji.ca/">Kijiji</a></li>
-  <li>Student Consultant at <a href="https://180dc.org/">180 Degrees Consulting</a></li>
+  <li>President of <a href="https://180dc.org/branch/uoft/">180 Degrees Consulting - University of Toronto</a></li>
   <li><a href="https://newdragons.ca/">New College Dragonboat</a> Racer (2018, 2020)</li>
   <li>Aviation Enthusiast</li>
   <li>Baseball megafan</li>
 </ul>
 
-<p>I’m comfortable with <strong> Python, R, Java, </strong> and <strong> SQL </strong>.</p>
+<p>I use <strong> Python, R, Java, </strong> and <strong> SQL</strong>.</p>
 
 <p>My coursework covers <strong> probability theory, statistical inference, </strong> and various <strong> regression + classification methods, </strong> amongst other topics.</p>
 
@@ -41,5 +41,5 @@
   <li>A Brief History of Time - Stephen Hawking</li>
 </ul>
 
-<p>Check out my <a href="https://hudyu17.github.io/personal_hyde/blog">blog</a> for more!</p>
+<p>Check out my <a href="http://hudsonyuen.comblog">blog</a> for more!</p>
 :ET
