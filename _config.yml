@@ -9,8 +9,8 @@ permalink:        pretty
 title:            Hudson Yuen
 tagline:          'A Jekyll theme'
 description:      'Computer Science / Statistics @ The University of Toronto'
-url:              'hudsonyuen.com'
-baseurl:          'hudsonyuen.com'
+url:              'http://hudsonyuen.com'
+baseurl:          'http://hudsonyuen.com'
 
 author:
   name:           'Mark Otto'
