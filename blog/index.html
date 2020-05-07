@@ -13,14 +13,14 @@ title: Blog
   {% for post in paginator.posts %}
   <div class="post">
     <h2 class="post-title">
-      <a href="{{ site.baseurl }}{{ post.url }}">
+      <a href="{{ site.url }}/{{ post.url }}">
         {{ post.title }}
       </a>
     </h2>
     <span class="post-date">{{ post.date | date_to_string }}</span>
     {{ post.excerpt }}
     {% if post.excerpt != post.content %}
-      <a href="{{ site.baseurl }}{{ post.url }}">Read more</a>
+      <a href="{{ site.url }}/{{ post.url }}">Read more</a>
     {% endif %}
   </div>
   {% endfor %}

@@ -1,4 +1,4 @@
-I"7<h1>
+I"#<h1>
 cuHacking 2020 - Carleton University
 </h1>
 
@@ -9,6 +9,6 @@ cuHacking 2020 - Carleton University
 </p>
 
 <p><a href="http://rbcsentiment.herokuapp.com/" target="_blank">
-    <img src="http://hudsonyuen.comassets/cuHacking/homepage.PNG" />
+    <img src="/assets/cuHacking/homepage.PNG" />
 </a></p>
 :ET
