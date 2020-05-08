@@ -13,5 +13,5 @@ cuHacking 2020 - Carleton University
 </p>
 
 <a href="http://rbcsentiment.herokuapp.com/" target="_blank">
-    <img src="{{ site.baseurl }}assets/cuHacking/homepage.PNG">
+    <img src="{{ site.url }}/assets/cuHacking/homepage.PNG">
 </a>

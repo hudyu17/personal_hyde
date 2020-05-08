@@ -10,9 +10,9 @@ I study Computer Science and Statistics at the University of Toronto.
 
 Some quick facts about me:
 
-* Incoming Data Analytics Intern at [Kijiji](https://www.kijiji.ca/)
-* President of [180 Degrees Consulting - University of Toronto](https://180dc.org/branch/uoft/)
-* [New College Dragonboat](https://newdragons.ca/) Racer (2018, 2020)
+* Incoming Data Analytics Intern at <a href="https://www.kijiji.ca/" target="_blank">Kijiji</a> 
+* President of <a href="https://180dc.org/branch/uoft/" target="_blank">180 Degrees Consulting - University of Toronto</a> 
+* <a href="https://newdragons.ca/" target="_blank">New College Dragonboat</a>  Racer (2018, 2020)
 * Aviation Enthusiast
 * Baseball megafan 
 
