@@ -10,14 +10,14 @@ title: Projects
 </p>
 <hr>
 
-## <a href="{{ site.baseurl }}projects/unic">UNIC x Apotex Case Competition 2020</a> 
-<a href="{{ site.baseurl }}projects/unic">
-    <img src="{{ site.baseurl }}assets/unic/unic.jpg">
+## <a href="{{ site.url }}/projects/unic">UNIC x Apotex Case Competition 2020</a> 
+<a href="{{ site.url }}/projects/unic">
+    <img src="{{ site.url }}/assets/unic/unic.jpg">
 </a>
 <hr>
 
-## <a href="{{ site.baseurl }}projects/cuhacking">cuHacking 2020 - Carleton University</a> 
-<a href="{{ site.baseurl }}projects/cuhacking">
-    <img src="{{ site.baseurl }}assets\cuHacking\cuhacking1.jpg">
+## <a href="{{ site.url }}/projects/cuhacking">cuHacking 2020 - Carleton University</a> 
+<a href="{{ site.url }}/projects/cuhacking">
+    <img src="{{ site.url }}/assets\cuHacking\cuhacking1.jpg">
 </a>
 <hr>
