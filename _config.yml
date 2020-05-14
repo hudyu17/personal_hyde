@@ -13,8 +13,8 @@ url:              'https://hudsonyuen.com'
 baseurl:          '/'
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Hudson Yuen'
+  url:            https://hudsonyuen.com
 
 plugins:
   - jekyll-paginate
