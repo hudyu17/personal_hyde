@@ -4,8 +4,9 @@ layout: default
 
 <div class="post">
   <h1 class="post-title-specific">{{ page.title }}</h1>
-  <h3>{{page.subtitle}}</h3>
+  <h2><i>{{page.subtitle}}</i></h2>
   <span class="post-date-specific">{{ page.date | date_to_string }}</span>
+  <br>
   {{ content }}
 </div>
 
