@@ -10,7 +10,7 @@ I study Computer Science and Statistics at the University of Toronto.
 
 Some quick facts about me:
 
-* Incoming Data Analytics Intern at <a href="https://www.kijiji.ca/" target="_blank">Kijiji</a> 
+* Data Analytics Intern at <a href="https://www.kijiji.ca/" target="_blank">Kijiji</a> 
 * President of <a href="https://180dc.org/branch/uoft/" target="_blank">180 Degrees Consulting - University of Toronto</a> 
 * <a href="https://newdragons.ca/" target="_blank">New College Dragonboat</a>  Racer (2018, 2020)
 * Aviation Enthusiast
@@ -40,4 +40,4 @@ I love learning with new people - feel free to connect:
 * The Ride of a Lifetime - Bob Iger
 * The Narrow Corridor - Daron Acemoglu and James A. Robinson
 
-Check out my <a href="{{ site.eurl }}/blog">blog</a> for more!
+Check out my <a href="{{ site.url }}/book_list">full reading list</a> if you're looking for new books!
