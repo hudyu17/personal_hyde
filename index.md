@@ -36,8 +36,8 @@ I love learning with new people - feel free to connect:
 
 ## 📚 What I'm currently reading
 (It's much easier to communicate my interests this way)
-* The Future of Capitalism - Paul Collier
-* The Ride of a Lifetime - Bob Iger
+* Capital in the Twenty-First Century - Thomas Piketty
+* Good to Great - Jim Collins
 * The Narrow Corridor - Daron Acemoglu and James A. Robinson
 
 Check out my <a href="{{ site.url }}/book_list">full reading list</a> if you're looking for new books!
