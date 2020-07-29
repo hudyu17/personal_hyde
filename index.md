@@ -20,7 +20,7 @@ I use <strong> Python, R, Java, </strong> and <strong> SQL</strong>.
 
 My coursework covers <strong> probability theory, statistical inference, </strong> and various <strong> regression + classification methods, </strong> amongst other topics.
 
-See my full resume <a href="https://1drv.ms/b/s!ArTbEqKYEwN0gY0bgk_iR_YjXR-PCw" target="_blank">here</a>, and my <a href="http://github.com/hudyu17" target="_blank">Github</a> for more!
+See my full resume <a href="https://1drv.ms/b/s!ArTbEqKYEwN0s68yA6Kw_gb2HQ0hHA?e=p2Y6IT" target="_blank">here</a>, and my <a href="http://github.com/hudyu17" target="_blank">Github</a> for more!
 <br>
 <br>
 {% assign sm = site.data.social-media %}
