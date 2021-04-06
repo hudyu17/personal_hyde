@@ -114,6 +114,7 @@
   /* Sidebar nav */
   .sidebar-nav {
     margin-bottom: 0rem;
+    justify-content: center;
   }
   .sidebar-nav-item {
     display: block;
@@ -122,6 +123,7 @@
   @media (max-width: 48em){
       .sidebar-nav-item {
       display: inline;
+      text-align: center;
       line-height: 2px;
       margin-left: 7px;
       margin-right: 7px;
@@ -133,8 +135,9 @@
   }
   @media (max-width: 48em) {
     .sidebar-nav-item-icon {
-      display: inline;
+      /* display: inline-block; */
       margin-left: 7px;
+      margin-top: -4px;
     }
   }
 

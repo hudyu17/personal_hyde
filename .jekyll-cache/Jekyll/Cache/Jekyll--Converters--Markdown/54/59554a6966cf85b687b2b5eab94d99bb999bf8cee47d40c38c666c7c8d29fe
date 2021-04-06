@@ -1,0 +1,14 @@
+I"<h1>
+Who Has More? A little game about baseball ⚾
+</h1>
+
+<p>
+I was inspired by the &lt;a href=http://www.higherlowergame.com/ target="_blank"&gt;higher/lower game&lt;/a&gt; and made a baseball version. Pretty much just used React + the typical BaseballReference/Lahman for data. 
+<br /><br />
+ <a href="https://mlbwhohasmore.herokuapp.com/" target="_blank">Check it out here!</a> 
+</p>
+
+<p><a href="https://mlbwhohasmore.herokuapp.com/" target="_blank">
+    <img src="http://localhost:4000/assets/whohasmore.PNG" />
+</a></p>
+:ET

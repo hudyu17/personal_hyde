@@ -1,0 +1,27 @@
+I"�<h1>
+  📍 Projects / Events
+</h1>
+<p>
+  I decided to show all 3 categories on 1 page, as there's a lot of overlap! 
+</p>
+<hr />
+
+<h2 id="who-has-more-a-little-game-about-baseball-"><a href="http://localhost:4000/projects/mlbwhohasmore">Who Has More? A little game about baseball ⚾</a></h2>
+<p><a href="http://localhost:4000/projects/mlbwhohasmore">
+    <img src="http://localhost:4000/assets/whohasmore.PNG" />
+</a></p>
+<hr />
+
+<h2 id="unic-x-apotex-case-competition-2020"><a href="http://localhost:4000/projects/unic">UNIC x Apotex Case Competition 2020</a></h2>
+<p><a href="http://localhost:4000/projects/unic">
+    <img src="http://localhost:4000/assets/unic/unic.jpg" />
+</a></p>
+<hr />
+
+<h2 id="cuhacking-2020---carleton-university"><a href="http://localhost:4000/projects/cuhacking">cuHacking 2020 - Carleton University</a></h2>
+<p><a href="http://localhost:4000/projects/cuhacking">
+    <img src="http://localhost:4000/assets\cuHacking\cuhacking1.jpg" />
+</a></p>
+<hr />
+
+:ET

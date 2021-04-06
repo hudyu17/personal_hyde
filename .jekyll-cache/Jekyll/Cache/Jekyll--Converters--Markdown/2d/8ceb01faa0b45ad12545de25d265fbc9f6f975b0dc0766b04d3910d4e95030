@@ -1,0 +1,38 @@
+I"�<p>Over a quarter of current MLB pitchers have had Tommy John, more formally known as Ulnar Collateral Ligament reconstruction surgery. Some of our most recent victims? Fireballers Luis Severino, Chris Sale, and Noah Syndergaard.</p>
+
+<p><img src="http://localhost:4000/assets/blog/syndergaard.jpg" /></p>
+
+<p>To a statistics student with zero medical experience, this procedure seems harder than deciphering the Nats’ World Series signs. In essence, surgeons harvest a tendon from elsewhere in the body (typically the hamstring), drill holes through the problem arm, then loop the graft tendon through a couple of times. Sorry if I butchered the explanation.</p>
+
+<p>Miraculously, the surgery has almost become routine. Recovery rates are an estimated 80–90% and most pitchers go on to lead lengthy careers. Instead, most of baseball is still trying to figure out why this keeps happening. Why do elbows keep popping, and why are they getting younger?</p>
+
+<p>The general consensus is overuse; athletic recruitment happens earlier in life, kids are encouraged to throw harder, and the off-season is for losers etc. There’s also a host of bio-mechanical explanations about how certain pitch types, like sliders, can be hazardous if thrown too young.</p>
+
+<p>I set out to tackle a small portion of this explanation, namely:</p>
+<ul>
+  <li>Does higher pitch velocity increase the likelihood of Tommy John?</li>
+  <li>Do certain pitch types increase the likelihood of Tommy John?</li>
+</ul>
+
+<p>For brevity, I’ll henceforth refer to this surgery as “TJ”.</p>
+
+<p>…</p>
+
+<h2 id="methods">Methods</h2>
+<p>I conducted a <strong>case-control study</strong> amongst MLB pitchers, with cases being pitchers who have undergone TJ and controls being pitchers who haven’t.</p>
+
+<p>The total pool of pitchers varies due to data accessibility; for example, more granular data on fastball usage is only available from 2017–19, so certain models only account for these years. I’ll clarify the selection methods where necessary.</p>
+
+<h3 id="a-quick-primer-on-case-control-studies">A quick primer on case-control studies</h3>
+<p>For those who are unfamiliar, case-control studies try to determine the relationship between <strong>proposed risk attributes and an observed condition</strong> (for us, this observed condition will be TJ).</p>
+
+<p>This is done by considering 2 groups that differ only by status of the condition — <strong>one group with the condition, and one without.</strong> These 2 groups are then compared by the levels of risk attributes (e.g. pitch velocity, slide percentage) and odds ratios are calculated.</p>
+
+<p>Odds ratios communicate the increased chance of exhibiting the case condition given an increase in the risk attribute. Note that if attributes are not quantitative but qualitative, for example, handedness, levels are converted to the prevalence of the attribute.</p>
+
+<p><strong>tl;dr</strong> we’re comparing the velocity and pitch types of pitchers who have had TJ and those who haven’t, hopefully finding something meaningful in the process. The odds ratios calculated from a case-control study also helps us quantify the effects of velocity on TJ likelihood. Otherwise, just knowing that TJ pitchers throw harder doesn’t reveal much.</p>
+
+<p>…</p>
+
+<p>Click <a href="https://towardsdatascience.com/does-throwing-hard-give-you-tommy-john-cbab2f153e0b" target="_blank">here</a> for the full article!</p>
+:ET

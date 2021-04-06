@@ -6,8 +6,14 @@ title: Projects
   📍 Projects / Events
 </h1>
 <p>
-  I decided to show all 3 categories on 1 page, as there's a lot of overlap! (The list also isn't very long - for now) 
+  I decided to show all 3 categories on 1 page, as there's a lot of overlap! 
 </p>
+<hr>
+
+## <a href="{{ site.url }}/projects/mlbwhohasmore">Who Has More? A little game about baseball ⚾</a> 
+<a href="{{ site.url }}/projects/mlbwhohasmore">
+    <img src="{{ site.url }}/assets/whohasmore.PNG">
+</a>
 <hr>
 
 ## <a href="{{ site.url }}/projects/unic">UNIC x Apotex Case Competition 2020</a> 
