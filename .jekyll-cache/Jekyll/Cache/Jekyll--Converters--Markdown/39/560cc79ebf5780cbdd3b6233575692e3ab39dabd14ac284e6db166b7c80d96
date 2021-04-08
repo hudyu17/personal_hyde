@@ -1,7 +1,7 @@
-I"ù<h1>
+I"<h1>
 Who Has More? A little game about baseball âš¾
 </h1>
-
+<p><br /></p>
 <p>
 I was inspired by the <a href="http://www.higherlowergame.com/" target="_blank">higher/lower game</a> and made a baseball version. Pretty much just used React + BaseballReference/Lahman for data. 
 <br /><br />
