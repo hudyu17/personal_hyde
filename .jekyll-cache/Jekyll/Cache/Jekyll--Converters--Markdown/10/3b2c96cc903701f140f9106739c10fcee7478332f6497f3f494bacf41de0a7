@@ -1,0 +1,58 @@
+I"!<h1>
+lookgoodr, an obituary
+</h1>
+<hr />
+
+<p>This was the biggest project that I’ve undertaken in a while, and it honestly didn’t turn out that great 🤡 Consider this an obituary to the incredibly-named <strong>lookgoodr</strong>:</p>
+
+<p><a href="https://lookgoodr.herokuapp.com/" target="_blank">
+    <img src="http://localhost:4000/assets/lookgoodr/home-1.PNG" /></a></p>
+
+<p><br />
+This platform sought to <strong>connect those who were looking for fashion advice</strong> (aka don’t know how to dress, which may or may not include me) <strong>with stylish people who love giving fashion advice.</strong></p>
+
+<p>The goal behind this was to fuel the <a href="https://a16z.com/2019/10/08/passion-economy/" target="_blank"> passion economy</a>.</p>
+
+<p>I wanted to help people better monetise interests and skills that I believe are valuable, but haven’t been traditionally seen as such.</p>
+
+<p>In this case, the value of having fashion sense. People pay for advice all the time - why shouldn’t those with fashion sense be able to profit as well?
+<br /><br /></p>
+
+<p><a href="https://lookgoodr.herokuapp.com/" target="_blank">
+    <img src="http://localhost:4000/assets/lookgoodr/analytics.PNG" />
+</a>
+<em>truly incredible 0% conversion</em>
+<br /></p>
+
+<p><strong>Mistake 1: Fundamentally misunderstanding the problem</strong></p>
+
+<p>Turns out that this isn’t that big a problem, or at least the target market was very narrow.</p>
+
+<p>Those who care about dressing better would probably be actively searching for ways to do such, either through friends or the million reddit threads out there on the topic.</p>
+
+<p>Those who don’t care about style - well, they wouldn’t pay money for this anyway.</p>
+
+<p><strong>Mistake 2: Not understanding the buyer</strong></p>
+
+<p>We initially targeted students/fresh grads in tech who wore hoodies during their entire undergrad and now have money to spend on clothes.</p>
+
+<p>This decision was made (mostly by me) despite the fact that nobody from this demographic actually expressed a huge desire to dress better; it was always a: “sure, I’d <em>probably</em> want to” - but who doesn’t?</p>
+
+<p><strong>Mistake(?) 3: Too complicated, too soon</strong></p>
+
+<p>This isn’t a true “mistake”, but trying to start a 2-sided marketplace with limited research and resources is difficult.</p>
+
+<p>I ended up spending more time working with the supply side (stylists) than the buy side, and the final product reflected this. It wasn’t actually that useful for buyers, something that I didn’t tease out thanks to a lack of focus on this.</p>
+
+<p><a href="https://lookgoodr.herokuapp.com/" target="_blank">
+    <img src="http://localhost:4000/assets/lookgoodr/stylists.PNG" />
+</a></p>
+
+<p>There were definitely many positives coming out of this. First off, it’s fun to build, and this was a good excuse to figure out firebase and emailJS 😎</p>
+
+<p>More importantly, I realised how great it is to get people excited. Our stylists really enjoyed the concept of helping people pick outfits, and their enthusiasm was an incredible motivator during the project. In an age of endless video calls, I knew that this was something fun when I actually looked forward to these calls.</p>
+
+<p>I’m also happy that we turned a thought on the streetcar into functioning MVP, even if it didn’t pan out. I still love the concept behind lookgoodr - the passion economy - so maybe that’ll make a return in another project.</p>
+
+<p><a href="https://lookgoodr.herokuapp.com/" target="_blank">Since you’re here, you might as well check it out!</a></p>
+:ET

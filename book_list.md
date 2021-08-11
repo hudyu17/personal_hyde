@@ -44,3 +44,5 @@ title: Reading List
 
 * <a href="https://www.goodreads.com/book/show/17707768-jony-ive" target="_blank">Jony Ive: The Genius Behind Apple's Greatest Products</a> - Leander Kahney
 
+* <a href="https://www.goodreads.com/book/show/34964879-how-to-turn-down-a-billion-dollars" target="_blank">How to Turn Down a Billion Dollars: The Snapchat Story</a> - Billy Gallagher
+
