@@ -1,0 +1,24 @@
+I"ú<h1>
+lookgoodr, an obituary
+</h1>
+<hr />
+
+<p>
+This was the biggest project that I've undertaken in a while. The goal behind this platform was to <strong>connect those who were looking for fashion advice</strong> (aka don't know how to dress, which may or may not include me) <strong>with stylish people who love giving fashion advice.</strong> Simple, right?
+
+<br /><br />
+Turns out that this isn't that big a problem, or at least the target market was very narrow. Those who care about dressing better would probably be actively searching for ways to do such, either through friends or the 4920459 reddit threads out there on the topic. Those who don't care about style - well, they wouldn't pay money for this anyway. 
+
+<br /><br />
+<a href="https://lookgoodr.herokuapp.com/" target="_blank">
+    <img src="http://localhost:4000/assets/wbtw.PNG" />
+</a>
+
+The site aggregates live videos of harbours and beaches, thrown in with some Jazz music and a map, because everyone loves maps (and I was trying to use react leaflet in something). 
+ <a href="https://workbythewater.herokuapp.com/" target="_blank">Check it out here!</a> 
+</p>
+
+<p><a href="https://workbythewater.herokuapp.com/" target="_blank">
+    <img src="http://localhost:4000/assets/wbtw_sydney.PNG" />
+</a></p>
+:ET
