@@ -7,7 +7,7 @@ betterbox 📦, coming soon
 </h1>
 <hr>
 
-We haven't built anything yet, but here's the premise.
+Still very much in the research / design / development stages, but here's the premise:
 
 Subscription boxes are <a href="https://twitter.com/explodingtopics/status/1415332979610570752" target="_blank"> getting more popular</a>, probably because we've been at home for over a year. 
 
