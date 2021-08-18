@@ -17,26 +17,19 @@ A bit about me:
 * Started <a href="https://theflyingmoose.net" target="_blank">The Flying Moose</a> to analyse aviation in Canada
 * Shohei Ohtani's number 1 fan
 
-<!-- I use <strong> Python, R, Java, </strong> and <strong> SQL</strong>. 
-
-My coursework covers <strong> probability theory, statistical inference, </strong> and various <strong> regression + classification methods, </strong> amongst other topics. -->
-
-Check out my <a href="{{ site.url }}/projects">projects</a> or <a href="https://1drv.ms/b/s!ArTbEqKYEwN0s8FwOpQ1xxBFZgQtjA" target="_blank">resume</a> for more!
+Check out my <a href="{{ site.url }}/projects">projects</a> for more!
 <br>
 <br>
 {% assign sm = site.data.social-media %}
 
 ## 📱 Get in touch
-<!-- I love meeting new people:  -->
 * <i class="fa fa-linkedin-square"></i> <a href="https://www.linkedin.com/in/hudsonyuen/" target="_blank">Hudson Yuen</a>
 * <i class="fa fa-envelope-square"></i> [hudson.yuen@mail.utoronto.ca](mailto:hudson.yuen@mail.utoronto.ca)
 <!-- * <i class="fa fa-github-square"></i> <a href="http://github.com/hudyu17" target="_blank">hudyu17</a> -->
-<!-- * <i class="fa fa-phone-square"></i> Phone: 416-697-6152 -->
 <br>
 <br>
 
 ## 📚 What I'm currently reading
-<!-- (Much easier to communicate my interests like this) -->
 * The Golden Passport - Duff McDonald
 * Empathy Engines - Elizabeth Sampat
 
