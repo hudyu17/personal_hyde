@@ -6,7 +6,7 @@ title: Home
 👋 Hi, I'm Hudson. 
 </h1>
 
-I study Computer Science and Statistics at the University of Toronto (graduating summer 2022). 
+I study Computer Science and Statistics at the University of Toronto (graduating 2022). 
 
 A bit about me:
 
@@ -30,7 +30,7 @@ Check out my <a href="{{ site.url }}/projects">projects</a> for more!
 <br>
 
 ## 📚 What I'm currently reading
-* The Golden Passport - Duff McDonald
-* Empathy Engines - Elizabeth Sampat
+* Value(s): Building a Better World for All - Mark Carney
+* Ninety Percent of Everything - Rose George
 
 Check out my <a href="{{ site.url }}/book_list">favourite books</a> if you're looking for things to read!

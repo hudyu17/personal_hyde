@@ -46,3 +46,5 @@ title: Reading List
 
 * <a href="https://www.goodreads.com/book/show/34964879-how-to-turn-down-a-billion-dollars" target="_blank">How to Turn Down a Billion Dollars: The Snapchat Story</a> - Billy Gallagher
 
+* <a href="https://www.goodreads.com/book/show/30653852-the-golden-passport" target="_blank">The Golden Passport</a> - Duff McDonald
+
