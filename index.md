@@ -6,7 +6,7 @@ title: Home
 👋 Hi, I'm Hudson. 
 </h1>
 
-I study Computer Science and Statistics at the University of Toronto (graduating 2022). 
+I study Computer Science and Statistics at the University of Toronto (graduating 2022 or 2023 - it's flexible). 
 
 A bit about me:
 
