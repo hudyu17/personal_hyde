@@ -3,7 +3,7 @@ layout: page
 title: betterbox
 ---
 <h1>
-betterbox 📦, coming soon
+betterbox 📦, on hold :(
 </h1>
 <hr>
 

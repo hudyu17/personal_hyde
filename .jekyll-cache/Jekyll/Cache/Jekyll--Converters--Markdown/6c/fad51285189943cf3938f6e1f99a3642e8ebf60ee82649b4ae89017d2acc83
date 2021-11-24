@@ -1,0 +1,168 @@
+I"�<h1>
+HousingHelper 🏠 (Capstone Project)
+</h1>
+<hr />
+
+<p>I’m in the <a href="https://www.schoolofcities.utoronto.ca/multidisciplinary-urban-capstone-project" target="_blank">Multidisciplinary Urban Capstone Project</a> at UofT, working in a team of 6 students to design a new affordable housing development.</p>
+
+<p>To say this goes beyond the scope of my studies would be an understatement, but this is an opportunity for some product development - because anything is an opportunity for product development 😎</p>
+
+<p>I decided to take the lead on building a tool that <strong>produces design requirements and analyses the financial feasibility of alternatives.</strong> I’ve documented my thinking below:</p>
+
+<h2>Context</h2>
+<p>Our capstone client is a collective of public and private stakeholders (e.g. the City, engineering design firms) with the mandated goal of creating long-lasting affordable housing in Toronto.</p>
+
+<p>They have 3 operational pillars (which loosely translate into epics):</p>
+<ol>
+  <li>Does it pencil? (is it feasible)</li>
+  <li>Does it scale? (can they have practices that translate to other sites)</li>
+  <li>How can we accelerate delivery?</li>
+</ol>
+
+<p>Our specific project tasks us with proposing a development on a specific site. We scoped this ask down into 2 deliverables:</p>
+<ol>
+  <li>Masterplan (the architectural design)</li>
+  <li>Business plan</li>
+</ol>
+
+<h2>Product Vision</h2>
+<p>I’ll admit it - this isn’t a small task for anyone, let alone 6 undergraduate students. <strong>The motivation behind making HousingHelper is to simply make our lives easier + deliver long-term value to our client.</strong> The following is some loose thinking to come up with the ideal state for the tool.</p>
+
+<p>I’m focusing on the <em>business plan</em> side of the 2 deliverables. I realised that this tackles <em>Pillar 1 (does it pencil)</em> by:</p>
+<ol>
+  <li>Guiding the physical design by explaining what is financially feasible i.e. optimise the layout/functions for profitability and social benefit</li>
+  <li>Quantifying that feasibility e.g. determining profitability, payback periods</li>
+</ol>
+
+<p><em>Pillar 2 (does it scale)</em> could then be achieved by a separate tool that identifies similar sites based on input parameters (e.g. clustering census tracts in Toronto based on construction costs, incomes, rents), but might be something for another day.</p>
+
+<p>For good measure, I threw this into the Crossing the Chasm framework:</p>
+
+<ul>
+  <li><strong>For</strong> Client stakeholders and design teams (including us)</li>
+  <li><strong>Who</strong> want to determine key design requirements for potential developments</li>
+  <li><strong>HousingHelper is</strong> a calculator/optimiser</li>
+  <li><strong>That</strong> produces multiple sets of financially feasible alternatives</li>
+</ul>
+
+<h2>Specifications</h2>
+
+<h3>Product summary</h3>
+
+<p>There are several things to optimise and produce sets of:</p>
+
+<p><em>Residential usage</em></p>
+<ul>
+  <li>Setaside percentage (% of housing that is affordable, &gt;30% for us)</li>
+  <li>Unit type split</li>
+</ul>
+
+<p><em>Non-residential usage</em></p>
+<ul>
+  <li>Commercial usage split (e.g. retail, office)</li>
+  <li>Amount of commercial (residential is generally fixed e.g. at least x units)</li>
+  <li>Number of parking spots</li>
+</ul>
+
+<p>Parameters that are relevant for optimisation (and may require user input):</p>
+
+<table>
+  <tr>
+    <th></th>
+    <th>Construction</th>
+    <th>Permanent</th>
+  </tr>
+  <tr>
+    <th>Revenues (variable)</th>
+    <td>Investors, city funding, developer equity, loans</td>
+    <td>Rental units, commercial rental</td>
+  </tr>
+  <tr>
+    <th>Costs</th>
+    <td>Hard costs (fixed), soft costs (fixed), land (nominal), subsidies (variable)</td>
+    <td>Loan repayments, operating costs e.g. maintenance and taxes (all variable)</td>
+  </tr>
+</table>
+
+<h3>Business case for HousingHelper</h3>
+<p>Our client retains accountants that can produce industry-standard pro formas and cash flow statements, so that’s not our job.</p>
+
+<p>What we intend to do is <strong>provide preliminary estimates</strong> of the variables outlined in the Optimise section, producing ballpark requirements that can serve as guidelines for further investigation.</p>
+
+<p>Creating a dynamic tool allows this process to be repeated efficiently with new parameters and across different sites in the future, <strong>bringing lasting value to the client beyond our capstone</strong> and speeding up their workflow.</p>
+
+<p>In the immediate term, HousingHelper helps our design team evaluate more options and get things done quicker.</p>
+
+<h3>User stories</h3>
+<p>These aren’t based solely on client-side stakeholders, but also our own team members (since this is an internal tool that will be used by design teams in the future). These were created based off client meetings and internal team discussions.</p>
+
+<p><strong>As an</strong> architectural practice</p>
+<ul>
+  <li><strong>We want to</strong> know the firm requirements of the development e.g. number of floors available for retail</li>
+  <li><strong>So that we can</strong> actually design the thing</li>
+</ul>
+
+<p><strong>As a</strong> planning organisation</p>
+<ul>
+  <li><strong>We want to</strong> evaluate the financial feasibility of the development</li>
+  <li><strong>So that we can</strong> obtain funding, plan budgets, and start necessary conversations</li>
+</ul>
+
+<p><strong>As a</strong> community organisation</p>
+<ul>
+  <li><strong>We want to</strong> know what types of uses will be available</li>
+  <li><strong>So that we can</strong> make arrangements to relocate people or complement non-residential uses</li>
+</ul>
+
+<h2>Roadmapping and prioritisation</h2>
+
+<h3>Epic 1: does it pencil</h3>
+<p>I’ll undertake the development process in 3 stages, largely corresponding to these 3 stories. This roadmapping also isn’t spec’d out to the max, because I still need to work out the nitty gritty of the calculation process 😬</p>
+
+<p><strong>Story 1: physical details</strong></p>
+
+<p>Output several scenarios with different</p>
+<ul>
+  <li>Residential floors</li>
+  <li>Commercial space</li>
+  <li>Parking spots</li>
+</ul>
+
+<p>Potential inputs</p>
+<ul>
+  <li>Expected occupancy rates for unit types</li>
+  <li>Size restrictions (height, max num units, floor plate area)</li>
+  <li>Demographics (income, diversity)</li>
+</ul>
+
+<p><strong>Story 2: finances</strong></p>
+
+<p>Calculate the following for each output scenario</p>
+<ul>
+  <li>Setaway percentage</li>
+  <li>Projected revenues</li>
+  <li>Projected costs mostly constant
+→ Breakeven duration</li>
+</ul>
+
+<p><strong>Story 3: usage</strong></p>
+<ul>
+  <li>Unit types</li>
+  <li>Specific non-residential uses</li>
+</ul>
+
+<p>With this breakdown, I have a clearer sense of the product:</p>
+
+<ul>
+  <li>The functionality of stories 1 and 2 are complementary; changing the parameters/outputs of one will update the other</li>
+  <li>The usage of story 3 can be applied to whatever scenario has been selected</li>
+</ul>
+
+<h3>Epic 2: does it scale (later on)</h3>
+
+<p>There’s room here to crack out some stats e.g. clustering areas in Toronto, identifing similar clusters to a user input</p>
+
+<h2>Actual design</h2>
+<p>In progress, stay tuned 😈</p>
+
+:ET
