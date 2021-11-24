@@ -1,6 +1,6 @@
 ---
 layout: page
-title: capstone
+title: HousingHelper (Capstone)
 ---
 <h1>
 HousingHelper 🏠 (Capstone Project)
