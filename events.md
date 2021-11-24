@@ -5,9 +5,12 @@ title: Events
 <h1>
   📍 Events
 </h1>
-<p>
-  Assume everything here is pre-COVID ;(
-</p>
+<hr>
+
+## <a href="{{ site.url }}/events/raes">How aviation can go green - RAeS National Lecture Competition 2021</a> 
+<a href="{{ site.url }}/events/raes">
+    <img src="{{ site.url }}/assets/raes.jpg">
+</a>
 <hr>
 
 ## <a href="{{ site.url }}/events/unic">UNIC x Apotex Case Competition 2020</a> 
