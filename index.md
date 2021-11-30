@@ -3,12 +3,12 @@ layout: page
 title: Home
 ---
 <h1>
-👋 Hi, I'm Hudson. 
+Hi, I'm Hudson. 
 </h1>
 
 I study Computer Science and Statistics at the University of Toronto (graduating 2022 or 2023 - it's flexible). 
 
-A bit about me:
+## 👋 A bit about me
 
 * Associate Consultant Intern at <a href="https://www.mastercardservices.com/en/solutions/mastercard-advisors" target="_blank">Mastercard Advisors</a> (May 2021 - Aug 2021)
 * Data Analytics Intern at <a href="https://www.kijiji.ca" target="_blank">Kijiji</a> (May 2020 - May 2021)
@@ -17,7 +17,13 @@ A bit about me:
 * Started <a href="https://theflyingmoose.net" target="_blank">The Flying Moose</a> to analyse aviation in Canada
 * Shohei Ohtani's number 1 fan
 
-Check out my <a href="{{ site.url }}/projects">projects</a> for more!
+Check out my <a href="{{ site.url }}/projects">projects</a> to see what I make 🔨
+
+I also like exploring statistical concepts through fun topics:
+
+* <a href="https://medium.com/@hudson.yuen/can-you-predict-the-impact-of-birdstrikes-on-aircraft-e4a9c07b9e65" target="_blank">Predicting birdstrikes with XGBoost</a>
+* <a href="https://towardsdatascience.com/does-throwing-hard-give-you-tommy-john-cbab2f153e0b" target="_blank">Case Control studies and baseball injuries</a>
+* <a href="https://medium.com/@hudson.yuen/the-bernoulli-and-baseball-30fce522de20" target="_blank">Using baseball plate appearances to explain distributions</a>
 <br>
 <br>
 {% assign sm = site.data.social-media %}
