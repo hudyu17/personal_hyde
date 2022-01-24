@@ -6,10 +6,11 @@ title: Home
 Hi, I'm Hudson. 
 </h1>
 
-I study Computer Science and Statistics at the University of Toronto (graduating 2022 or 2023 - it's flexible). 
+I study Computer Science and Statistics at the University of Toronto (graduating 2022). 
 
 ## 👋 A bit about me
 
+* <a href="https://www.nextcanada.com/next-36/" target="_blank">Next36</a> 2022 Cohort
 * Associate Consultant Intern at <a href="https://www.mastercardservices.com/en/solutions/mastercard-advisors" target="_blank">Mastercard Advisors</a> (May 2021 - Aug 2021)
 * Data Analytics Intern at <a href="https://www.kijiji.ca" target="_blank">Kijiji</a> (May 2020 - May 2021)
 * President of <a href="https://180dc.org/branch/uoft/" target="_blank">180 Degrees Consulting - UofT</a> (Apr 2020 - Apr 2021)
