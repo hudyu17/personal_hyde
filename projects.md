@@ -10,8 +10,8 @@ title: Projects
 </p>
 <hr>
 
-## <a href="{{ site.url }}/projects/capstone">HousingHelper 🏠 (Capstone Project)</a> 
-<a href="{{ site.url }}/projects/capstone">
+## <a href="{{ site.url }}/projects/capstone">HousingHelper Product Concept 🏠 (Capstone Project)</a> 
+<a href="{{ site.url }}/projects/capstone-helper">
     <img src="{{ site.url }}/assets/oda.jpg">
 </a>
 <hr>

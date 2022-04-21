@@ -1,9 +1,9 @@
 ---
 layout: page
-title: HousingHelper (Capstone)
+title: HousingHelper
 ---
 <h1>
-HousingHelper 🏠 (Capstone Project)
+HousingHelper Product Concept 🏠 (Capstone Project)
 </h1>
 <hr>
 
@@ -12,9 +12,7 @@ I'm in the <a href="https://www.schoolofcities.utoronto.ca/multidisciplinary-urb
 <img src="{{ site.url }}/assets/oda.jpg">
 *our development is 100% not looking like this*
 
-To say this goes beyond the scope of my studies would be an understatement, but this is an opportunity for some product development - because anything is an opportunity for product development 😎
-
-I decided to take the lead on building a tool that **produces design requirements and analyses the financial feasibility of alternatives.** I've documented my thinking below:
+I scoped out a tool that **produces design requirements and analyses the financial feasibility of alternatives.** I've documented my thinking below:
 
 <h2>Context</h2>
 Our capstone client is a collective of public and private stakeholders (e.g. the City, engineering design firms) with the mandated goal of creating long-lasting affordable housing in Toronto.
@@ -141,8 +139,5 @@ With this breakdown, I have a clearer sense of the product:
 <h3>Epic 2: does it scale (later on)</h3>
 
 There's room here to crack out some stats e.g. clustering areas in Toronto, identifing similar clusters to a user input
-
-<h2>Actual design</h2>
-In progress, stay tuned 😈
 
 
