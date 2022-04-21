@@ -2,15 +2,13 @@
 layout: page
 title: HousingHelper
 ---
-<h1>
-HousingHelper Product Concept 🏠 (Capstone Project)
-</h1>
+# HousingHelper Product Concept 🏠 (Capstone Project)
 <hr>
 
 I'm in the <a href="https://www.schoolofcities.utoronto.ca/multidisciplinary-urban-capstone-project" target="_blank">Multidisciplinary Urban Capstone Project</a> at UofT, working in a team of 6 students to design a new affordable housing development. 
 
 <img src="{{ site.url }}/assets/oda.jpg">
-*our development is 100% not looking like this*
+<sub>*our development is 100% not looking like this*</sub>
 
 I scoped out a tool that **produces design requirements and analyses the financial feasibility of alternatives.** I've documented my thinking below:
 
