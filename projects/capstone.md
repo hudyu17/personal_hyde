@@ -110,7 +110,6 @@ At a high level, this scenario assumes full retail occupancy at market rates alo
 Our 7-year forecast rests on construction deficits being approximately $31 million with annual revenues being approximately $4.6 million; this loosely produces a payback period of 7 years. 
 
 | Hard Costs                                           |      $47,840,464 |
-|------------------------------------------------------|-----------------:|
 | Soft Costs                                           |      $16,159,510 |
 | Total Project Costs (Hard Costs + Soft Costs)        |      $63,999,974 |
 | Total Revenues / Contributions                       |      $33,150,000 |
